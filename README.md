@@ -64,13 +64,15 @@
 | 04  |  Lecture   |       Redis:The Complete Developer's Guide        |                    [W4](https://www.yes24.com/Product/Goods/106225986)                     | X  |
 
 # 8. DevOps
-| 순서 |   유형    |                         이름                          |                                                      URL                                                       | 완료 |
-|:--:|:-------:|:---------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------:|:---|
-| 01 |  Lecture   |          초보자를 위한 Docker 실습 - 데브옵스 (DevOps)          |                           [W1](https://www.udemy.com/course/docker-hands-on-devops/)                           | O  |
-| 02 |  Lecture   |   DevOps 학습: 파이프라인 및 Docker를 이용한 Jenkins 와의 CI/CD   |                           [W2](https://www.udemy.com/course/docker-hands-on-devops/)                           | X  |
-| 03 | Lecture | Jenkins, From Zero To Hero: Become a DevOps Jenkins |                         [W3](https://www.udemy.com/course/jenkins-from-zero-to-hero/)                          | X  |
-| 04 |  Lecture   |             Docker & Kubernetes : 실전가이드             |                               [W4](https://www.udemy.com/course/docker-kubernetes-2022/)                               | X  |
-| 05 |  Lecture   |           DevOps(데브옵스) : Kubernetes 완전 정복           |                   [W4](https://www.udemy.com/course/best-devops/)                    | X  |
+| 순서 |   유형    |                         이름                          |                              URL                              | 완료 |
+|:--:|:-------:|:---------------------------------------------------:|:-------------------------------------------------------------:|:---|
+| 01 |  Lecture   |          초보자를 위한 Docker 실습 - 데브옵스 (DevOps)          |  [W1](https://www.udemy.com/course/docker-hands-on-devops/)   | O  |
+| 02 |  Lecture   |   DevOps 학습: 파이프라인 및 Docker를 이용한 Jenkins 와의 CI/CD   |  [W2](https://www.udemy.com/course/docker-hands-on-devops/)   | X  |
+| 03 | Lecture | Jenkins, From Zero To Hero: Become a DevOps Jenkins | [W3](https://www.udemy.com/course/jenkins-from-zero-to-hero/) | X  |
+| 04 |  Lecture   |             Docker & Kubernetes : 실전가이드             |  [W4](https://www.udemy.com/course/docker-kubernetes-2022/)   | X  |
+| 05 |  Lecture   |           DevOps(데브옵스) : Kubernetes 완전 정복           |        [W5](https://www.udemy.com/course/best-devops/)        | X  |
+| 06 |  Lecture   |         AWS(Amazon Web Service) 입문자를 위한 강의          |        [W6](https://www.inflearn.com/course/aws-%EC%9E%85%EB%AC%B8)        | X  |
+| 07 |  Lecture   |        AWS(Amazon Web Service) 중/상급자를 위한 강의         |        [W7](https://www.inflearn.com/course/aws-%EC%A4%91%EC%83%81%EA%B8%89%EC%9E%90)        | X  |
 
 # 9. Spring Batch
 | 순서  |   유형    |                     이름                      |                                            URL                                            | 완료 |
@@ -84,6 +86,11 @@
 | 01  |  Lecture   | ELK 스택 (ElasticSearch, Logstash, Kibana) 으로 데이터 분석 | [W1](https://www.inflearn.com/course/elk-%EC%8A%A4%ED%83%9D-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D/dashboard) | X  |
 | 02  |  Lecture   |              ElasticSearch Essential               |                    [W2](https://www.inflearn.com/course/elasticsearch-essential)                    | X  |
 | 03  | Lecture |       Elasticsearch 7과 Elastic Stack: 이론과 실습       |                    [W3](https://www.udemy.com/course/best-elasticsearch-7-elastic-stack/)                     | X  |
+ 
+# 11. Kafka
+| 순서  |   유형    |              이름              |                                            URL                                            | 완료 |
+|:---:|:-------:|:----------------------------:|:-----------------------------------------------------------------------------------------:|:---|
+| 01  |  Lecture   | [데브원영] 아파치 카프카 for beginners | [W1](https://www.inflearn.com/course/%EC%95%84%ED%8C%8C%EC%B9%98-%EC%B9%B4%ED%94%84%EC%B9%B4-%EC%9E%85%EB%AC%B8/dashboard) | X  |
  
 ----
 # front
