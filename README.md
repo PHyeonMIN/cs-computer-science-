@@ -67,7 +67,7 @@
 | 순서 |   유형    |                         이름                          |                              URL                              | 완료 |
 |:--:|:-------:|:---------------------------------------------------:|:-------------------------------------------------------------:|:---|
 | 01 |  Lecture   |          초보자를 위한 Docker 실습 - 데브옵스 (DevOps)          |  [W1](https://www.udemy.com/course/docker-hands-on-devops/)   | O  |
-| 02 |  Lecture   |   DevOps 학습: 파이프라인 및 Docker를 이용한 Jenkins 와의 CI/CD   |  [W2](https://www.udemy.com/course/docker-hands-on-devops/)   | X  |
+| 02 |  Lecture   |   DevOps 학습: 파이프라인 및 Docker를 이용한 Jenkins 와의 CI/CD   |  [W2](https://www.udemy.com/course/docker-hands-on-devops/)   | O  |
 | 03 | Lecture | Jenkins, From Zero To Hero: Become a DevOps Jenkins | [W3](https://www.udemy.com/course/jenkins-from-zero-to-hero/) | X  |
 | 04 |  Lecture   |             Docker & Kubernetes : 실전가이드             |  [W4](https://www.udemy.com/course/docker-kubernetes-2022/)   | X  |
 | 05 |  Lecture   |           DevOps(데브옵스) : Kubernetes 완전 정복           |        [W5](https://www.udemy.com/course/best-devops/)        | X  |
@@ -92,6 +92,12 @@
 |:---:|:-------:|:----------------------------:|:-----------------------------------------------------------------------------------------:|:---|
 | 01  |  Lecture   | [데브원영] 아파치 카프카 for beginners | [W1](https://www.inflearn.com/course/%EC%95%84%ED%8C%8C%EC%B9%98-%EC%B9%B4%ED%94%84%EC%B9%B4-%EC%9E%85%EB%AC%B8/dashboard) | X  |
  
+  
+# 12. Spring WebFlux & Spring Cloud
+| 순서  |   유형    |              이름              |                                            URL                                            | 완료 |
+|:---:|:-------:|:----------------------------:|:-----------------------------------------------------------------------------------------:|:---|
+ 
+
 ----
 # front
 | 순서  |   유형    |                      이름                      |                                            URL                                            | 완료 |
