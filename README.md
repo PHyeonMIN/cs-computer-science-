@@ -58,8 +58,8 @@
 # 7. NoSQL
 | 순서  |   유형    |                        이름                         |                                            URL                                            | 완료 |
 |:---:|:-------:|:-------------------------------------------------:|:-----------------------------------------------------------------------------------------:|:---|
-| 01  |  Lecture   | Mongo DB with Java Spring Boot & Spring Framework | [W1](https://www.inflearn.com/course/java-to-kotlin/dashboard) | X  |
-| 02  |  Lecture   |                   실전! Redis 활용                    |                    [W2](https://www.inflearn.com/course/java-to-kotlin-2/dashboard)                    | X  |
+| 01  |  Lecture   | Mongo DB with Java Spring Boot & Spring Framework | [W1](https://www.inflearn.com/course/java-to-kotlin/dashboard) | O  |
+| 02  |  Lecture   |                   실전! Redis 활용                    |                    [W2](https://www.inflearn.com/course/java-to-kotlin-2/dashboard)                    | O  |
 | 03  | Lecture |     Master Redis - From Beginner to Advanced      |                    [W3](https://www.inflearn.com/course/%EC%BD%94%ED%8B%80%EB%A6%B0-%EA%B3%A0%EA%B8%89%ED%8E%B8/dashboard)                     | X  |
 | 04  |  Lecture   |       Redis:The Complete Developer's Guide        |                    [W4](https://www.yes24.com/Product/Goods/106225986)                     | X  |
 
