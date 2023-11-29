@@ -77,7 +77,7 @@
 # 9. Spring Batch
 | 순서  |   유형    |                     이름                      |                                            URL                                            | 완료 |
 |:---:|:-------:|:-------------------------------------------:|:-----------------------------------------------------------------------------------------:|:---|
-| 01  |  Lecture   |     [스프링 배치 입문] 예저로 배우는 핵심 Spring Batch     | [W1](https://www.inflearn.com/course/%EC%98%88%EC%A0%9C%EB%A1%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%ED%95%B5%EC%8B%AC-%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B0%B0%EC%B9%98) | X  |
+| 01  |  Lecture   |     [스프링 배치 입문] 예저로 배우는 핵심 Spring Batch     | [W1](https://www.inflearn.com/course/%EC%98%88%EC%A0%9C%EB%A1%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%ED%95%B5%EC%8B%AC-%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B0%B0%EC%B9%98) | O  |
 | 02  |  Lecture   | 스프링 배치 - Spring Boot 기반으로 개발하는 Spring Batch |                    [W2](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B0%B0%EC%B9%98)                    | X  |
 
 # 10. ELK
