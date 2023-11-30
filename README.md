@@ -29,7 +29,7 @@
 |:---:|:-------:|:---------------------------------------:|:-----------------------------------------------------------------------------------------:|:---|
 | 01  | Lecture |         자바 개발자를 위한 코틀린 입문 (최태현)         | [W1](https://www.inflearn.com/course/java-to-kotlin/dashboard) | O  |
 | 02  | Lecture | 실전! 코틀린과 스프링 부트로 도서관리 애플리케이션 개발하기 (최태현) |                    [W2](https://www.inflearn.com/course/java-to-kotlin-2/dashboard)                    | O  |
-| 03  | Lecture |              코틀린 고급편 (최태현)              |                    [W3](https://www.inflearn.com/course/%EC%BD%94%ED%8B%80%EB%A6%B0-%EA%B3%A0%EA%B8%89%ED%8E%B8/dashboard)                     | X  |
+| 03  | Lecture |              코틀린 고급편 (최태현)              |                    [W3](https://www.inflearn.com/course/%EC%BD%94%ED%8B%80%EB%A6%B0-%EA%B3%A0%EA%B8%89%ED%8E%B8/dashboard)                     | O  |
 | 04  |  Book   |                이펙티브 코틀린                 |                    [W4](https://www.yes24.com/Product/Goods/106225986)                     | X  |
 
 # 5. Spring Boot
