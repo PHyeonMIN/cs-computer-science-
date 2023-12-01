@@ -90,7 +90,7 @@
 # 11. Kafka
 | 순서  |   유형    |              이름              |                                            URL                                            | 완료 |
 |:---:|:-------:|:----------------------------:|:-----------------------------------------------------------------------------------------:|:---|
-| 01  |  Lecture   | [데브원영] 아파치 카프카 for beginners | [W1](https://www.inflearn.com/course/%EC%95%84%ED%8C%8C%EC%B9%98-%EC%B9%B4%ED%94%84%EC%B9%B4-%EC%9E%85%EB%AC%B8/dashboard) | X  |
+| 01  |  Lecture   | [데브원영] 아파치 카프카 for beginners | [W1](https://www.inflearn.com/course/%EC%95%84%ED%8C%8C%EC%B9%98-%EC%B9%B4%ED%94%84%EC%B9%B4-%EC%9E%85%EB%AC%B8/dashboard) | O  |
  
   
 # 12. Spring WebFlux & Spring Cloud
