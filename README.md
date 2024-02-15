@@ -72,8 +72,8 @@
 | 03 | Lecture | Jenkins, From Zero To Hero: Become a DevOps Jenkins | [W3](https://www.udemy.com/course/jenkins-from-zero-to-hero/) | X  |
 | 04 |  Lecture   |             Docker & Kubernetes : 실전가이드             |  [W4](https://www.udemy.com/course/docker-kubernetes-2022/)   | X  |
 | 05 |  Lecture   |           DevOps(데브옵스) : Kubernetes 완전 정복           |        [W5](https://www.udemy.com/course/best-devops/)        | X  |
-| 06 |  Lecture   |         AWS(Amazon Web Service) 입문자를 위한 강의          |        [W6](https://www.inflearn.com/course/aws-%EC%9E%85%EB%AC%B8)        | X  |
-| 07 |  Lecture   |        AWS(Amazon Web Service) 중/상급자를 위한 강의         |        [W7](https://www.inflearn.com/course/aws-%EC%A4%91%EC%83%81%EA%B8%89%EC%9E%90)        | X  |
+| 06 |  Lecture   |         AWS(Amazon Web Service) 입문자를 위한 강의          |        [W6](https://www.inflearn.com/course/aws-%EC%9E%85%EB%AC%B8)        | O  |
+| 07 |  Lecture   |        AWS(Amazon Web Service) 중/상급자를 위한 강의         |        [W7](https://www.inflearn.com/course/aws-%EC%A4%91%EC%83%81%EA%B8%89%EC%9E%90)        | O  |
 
 # 9. Spring Batch
 | 순서  |   유형    |                     이름                      |                                            URL                                            | 완료 |
