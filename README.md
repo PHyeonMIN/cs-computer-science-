@@ -2,9 +2,10 @@
 | 순서 |   유형    |              이름               |                                            URL                                            | 완료 |
 |:--:|:-------:|:-----------------------------:|:-----------------------------------------------------------------------------------------:|:---|
 | 01 | Lecture | 모든 개발자를 위한 HTTP 웹 기본 지식 (김영한) | [W1](https://www.inflearn.com/course/http-%EC%9B%B9-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC) | O  |
-| 02 |  Book   |       면접을 위한 CS 전공지식 노트       | [W2](https://www.yes24.com/Product/Goods/108887922) | O  |
-| 03 |  Book   |          HTTP 완벽 가이드          | [W3](https://www.yes24.com/Product/Goods/15381085) | X  |
-| 04 |  Book   |      IT 엔지니어를 위한 네트워크 입문      | [W4](https://www.yes24.com/Product/Goods/93997435) | X  |
+| 02 |  Book   |       면접을 위한 CS 전공지식 노트       |                    [W2](https://www.yes24.com/Product/Goods/108887922)                    | O  |
+| 03 |  Book   |          HTTP 완벽 가이드          |                    [W3](https://www.yes24.com/Product/Goods/15381085)                     | X  |
+| 04 |  Book   |      IT 엔지니어를 위한 네트워크 입문      |                    [W4](https://www.yes24.com/Product/Goods/93997435)                     | X  |
+| 05 | Lecture |     외워서 끝내는 네트워크 핵심이론 - 기초   | [W5](https://www.inflearn.com/course/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%ED%95%B5%EC%8B%AC%EC%9D%B4%EB%A1%A0-%EA%B8%B0%EC%B4%88) | X  |
 
 
 # 2. DB
@@ -17,12 +18,13 @@
 | 05 |  Book   |SQL Antipatterns        |                    [W5](https://www.yes24.com/Product/Goods/93997435)                     | X  |
 
 # 3. Java  
-| 순서 |   유형    |           이름           |                                           URL                                            | 완료 |
-|:--:|:-------:|:----------------------:|:----------------------------------------------------------------------------------------:|:---|
-| 01 |  Book   |     객체 지향의 오해와 사실      |[W1](https://www.yes24.com/Product/Goods/18249021)                    | O  |
-| 02 | Lecture | 이펙티브 자바 완벽 공략 1편 (백기선) |                                          [W2](https://www.inflearn.com/course/%EC%9D%B4%ED%8E%99%ED%8B%B0%EB%B8%8C-%EC%9E%90%EB%B0%94-1)                                          | O  |
-| 03 | Lecture | 이펙티브 자바 완벽 공략 2편 (백기선) |                    [W3](https://www.inflearn.com/course/%EC%9D%B4%ED%8E%99%ED%8B%B0%EB%B8%8C-%EC%9E%90%EB%B0%94-2)                    | O  |
-| 04 |  Book   |       모던 자바 인 액션       |                    [W4](https://www.yes24.com/Product/Goods/77125987)                    | X  |
+| 순서 |   유형    |           이름           |                                               URL                                               | 완료 |
+|:--:|:-------:|:----------------------:|:-----------------------------------------------------------------------------------------------:|:---|
+| 01 |  Book   |     객체 지향의 오해와 사실      |                       [W1](https://www.yes24.com/Product/Goods/18249021)                        | O  |
+| 02 | Lecture | 이펙티브 자바 완벽 공략 1편 (백기선) | [W2](https://www.inflearn.com/course/%EC%9D%B4%ED%8E%99%ED%8B%B0%EB%B8%8C-%EC%9E%90%EB%B0%94-1) | O  |
+| 03 | Lecture | 이펙티브 자바 완벽 공략 2편 (백기선) | [W3](https://www.inflearn.com/course/%EC%9D%B4%ED%8E%99%ED%8B%B0%EB%B8%8C-%EC%9E%90%EB%B0%94-2) | O  |
+| 04 |  Book   |       모던 자바 인 액션       |                       [W4](https://www.yes24.com/Product/Goods/77125987)                        | X  |
+| 05 | Lecture | 백엔드 개발자 성능 개선 초석 다지기 | [W5](https://www.inflearn.com/course/%EC%84%B1%EB%8A%A5-%EA%B0%9C%EC%84%A0-%EC%B4%88%EC%84%9D-%EB%8B%A4%EC%A7%80%EA%B8%B0) | X  |
 
 # 4. Kotlin
 | 순서 |   유형    |                   이름                    |                                                   URL                                                   | 완료 |
@@ -65,15 +67,16 @@
 | 04  |  Lecture   |       Redis:The Complete Developer's Guide        |                    [W4](https://www.yes24.com/Product/Goods/106225986)                     | X  |
 
 # 8. DevOps
-| 순서 |   유형    |                         이름                          |                              URL                              | 완료 |
-|:--:|:-------:|:---------------------------------------------------:|:-------------------------------------------------------------:|:---|
-| 01 |  Lecture   |          초보자를 위한 Docker 실습 - 데브옵스 (DevOps)          |  [W1](https://www.udemy.com/course/docker-hands-on-devops/)   | O  |
-| 02 |  Lecture   |   DevOps 학습: 파이프라인 및 Docker를 이용한 Jenkins 와의 CI/CD   |  [W2](https://www.udemy.com/course/docker-hands-on-devops/)   | O  |
-| 03 | Lecture | Jenkins, From Zero To Hero: Become a DevOps Jenkins | [W3](https://www.udemy.com/course/jenkins-from-zero-to-hero/) | X  |
-| 04 |  Lecture   |             Docker & Kubernetes : 실전가이드             |  [W4](https://www.udemy.com/course/docker-kubernetes-2022/)   | X  |
-| 05 |  Lecture   |           DevOps(데브옵스) : Kubernetes 완전 정복           |        [W5](https://www.udemy.com/course/best-devops/)        | X  |
-| 06 |  Lecture   |         AWS(Amazon Web Service) 입문자를 위한 강의          |        [W6](https://www.inflearn.com/course/aws-%EC%9E%85%EB%AC%B8)        | O  |
-| 07 |  Lecture   |        AWS(Amazon Web Service) 중/상급자를 위한 강의         |        [W7](https://www.inflearn.com/course/aws-%EC%A4%91%EC%83%81%EA%B8%89%EC%9E%90)        | O  |
+| 순서 |   유형    |                         이름                          |                                      URL                                       | 완료 |
+|:--:|:-------:|:---------------------------------------------------:|:------------------------------------------------------------------------------:|:---|
+| 01 |  Lecture   |          초보자를 위한 Docker 실습 - 데브옵스 (DevOps)          |           [W1](https://www.udemy.com/course/docker-hands-on-devops/)           | O  |
+| 02 |  Lecture   |   DevOps 학습: 파이프라인 및 Docker를 이용한 Jenkins 와의 CI/CD   |           [W2](https://www.udemy.com/course/docker-hands-on-devops/)           | O  |
+| 03 | Lecture | Jenkins, From Zero To Hero: Become a DevOps Jenkins |         [W3](https://www.udemy.com/course/jenkins-from-zero-to-hero/)          | X  |
+| 04 |  Lecture   |             Docker & Kubernetes : 실전가이드             |           [W4](https://www.udemy.com/course/docker-kubernetes-2022/)           | X  |
+| 05 |  Lecture   |           DevOps(데브옵스) : Kubernetes 완전 정복           |                [W5](https://www.udemy.com/course/best-devops/)                 | X  |
+| 06 |  Lecture   |         AWS(Amazon Web Service) 입문자를 위한 강의          |          [W6](https://www.inflearn.com/course/aws-%EC%9E%85%EB%AC%B8)          | O  |
+| 07 |  Lecture   |        AWS(Amazon Web Service) 중/상급자를 위한 강의         | [W7](https://www.inflearn.com/course/aws-%EC%A4%91%EC%83%81%EA%B8%89%EC%9E%90) | O  |
+| 08 |  Lecture   |          따라하며 배우는 도커와 CI환경 [2023.11 업데이트]           | [W8](https://www.inflearn.com/course/%EB%94%B0%EB%9D%BC%ED%95%98%EB%A9%B0-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EB%8F%84%EC%BB%A4-ci) | X  |
 
 # 9. Spring Batch
 | 순서  |   유형    |                     이름                      |                                            URL                                            | 완료 |
@@ -108,9 +111,9 @@
 | 02  | Lecture | React 완벽 가이드 with Redux, Next.js, TypeScript |                    [W2](https://www.udemy.com/course/best-react/)                    | O  |
  
 # etc.
-| 순서 |   유형    |             이름              |                                            URL                                            | 완료 |
-|:--:|:-------:|:---------------------------:|:-----------------------------------------------------------------------------------------:|:---|
-| 01 |  Book   | 이것이 취업을 위한 코딩 테스트다 with 파이썬 | [W1](https://www.yes24.com/Product/Goods/91433923) | O  |
-| 02 | Lecture |       따라하며 배우는 NestJS       |                    [W2](https://www.inflearn.com/course/%EB%94%B0%EB%9D%BC%ED%95%98%EB%8A%94-%EB%84%A4%EC%8A%A4%ED%8A%B8-%EC%A0%9C%EC%9D%B4%EC%97%90%EC%8A%A4)                    | O  |
-| 03 |  Book   |           리팩토링 2판           |                    [W2](https://www.yes24.com/Product/Goods/89649360)                    | O  |
- 
+| 순서 |   유형    |             이름              |                                                                     URL                                                                     | 완료 |
+|:--:|:-------:|:---------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------:|:---|
+| 01 |  Book   | 이것이 취업을 위한 코딩 테스트다 with 파이썬 |                                             [W1](https://www.yes24.com/Product/Goods/91433923)                                              | O  |
+| 02 | Lecture |       따라하며 배우는 NestJS       | [W2](https://www.inflearn.com/course/%EB%94%B0%EB%9D%BC%ED%95%98%EB%8A%94-%EB%84%A4%EC%8A%A4%ED%8A%B8-%EC%A0%9C%EC%9D%B4%EC%97%90%EC%8A%A4) | O  |
+| 03 |  Book   |           리팩토링 2판           |                                             [W2](https://www.yes24.com/Product/Goods/89649360)                                              | O  |
+| 04 | Lecture |          socket.io          |     [W4](https://www.udemy.com/course/socketio-with-websockets-the-details/)      | X  |
