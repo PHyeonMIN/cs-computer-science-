@@ -24,7 +24,7 @@
 | 02 | Lecture | 이펙티브 자바 완벽 공략 1편 (백기선) | [W2](https://www.inflearn.com/course/%EC%9D%B4%ED%8E%99%ED%8B%B0%EB%B8%8C-%EC%9E%90%EB%B0%94-1) | O  |
 | 03 | Lecture | 이펙티브 자바 완벽 공략 2편 (백기선) | [W3](https://www.inflearn.com/course/%EC%9D%B4%ED%8E%99%ED%8B%B0%EB%B8%8C-%EC%9E%90%EB%B0%94-2) | O  |
 | 04 |  Book   |       모던 자바 인 액션       |                       [W4](https://www.yes24.com/Product/Goods/77125987)                        | X  |
-| 05 | Lecture | 백엔드 개발자 성능 개선 초석 다지기 | [W5](https://www.inflearn.com/course/%EC%84%B1%EB%8A%A5-%EA%B0%9C%EC%84%A0-%EC%B4%88%EC%84%9D-%EB%8B%A4%EC%A7%80%EA%B8%B0) | X  |
+| 05 | Lecture | 백엔드 개발자 성능 개선 초석 다지기 | [W5](https://www.inflearn.com/course/%EC%84%B1%EB%8A%A5-%EA%B0%9C%EC%84%A0-%EC%B4%88%EC%84%9D-%EB%8B%A4%EC%A7%80%EA%B8%B0) | O  |
 
 # 4. Kotlin
 | 순서 |   유형    |                   이름                    |                                                   URL                                                   | 완료 |
