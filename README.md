@@ -26,7 +26,7 @@
 | 04 |  Book   |       모던 자바 인 액션       |                       [W4](https://www.yes24.com/Product/Goods/77125987)                        | X  |
 | 05 | Lecture | 백엔드 개발자 성능 개선 초석 다지기 | [W5](https://www.inflearn.com/course/%EC%84%B1%EB%8A%A5-%EA%B0%9C%EC%84%A0-%EC%B4%88%EC%84%9D-%EB%8B%A4%EC%A7%80%EA%B8%B0) | O  |
 
-# 4. Kotlin
+# 4. Kotlin드
 | 순서 |   유형    |                   이름                    |                                                   URL                                                   | 완료 |
 |:--:|:-------:|:---------------------------------------:|:-------------------------------------------------------------------------------------------------------:|:---|
 | 01 | Lecture |         자바 개발자를 위한 코틀린 입문 (최태현)         |                     [W1](https://www.inflearn.com/course/java-to-kotlin/dashboard)                      | O  |
@@ -76,7 +76,7 @@
 | 05 |  Lecture   |           DevOps(데브옵스) : Kubernetes 완전 정복           |                [W5](https://www.udemy.com/course/best-devops/)                 | X  |
 | 06 |  Lecture   |         AWS(Amazon Web Service) 입문자를 위한 강의          |          [W6](https://www.inflearn.com/course/aws-%EC%9E%85%EB%AC%B8)          | O  |
 | 07 |  Lecture   |        AWS(Amazon Web Service) 중/상급자를 위한 강의         | [W7](https://www.inflearn.com/course/aws-%EC%A4%91%EC%83%81%EA%B8%89%EC%9E%90) | O  |
-| 08 |  Lecture   |          따라하며 배우는 도커와 CI환경 [2023.11 업데이트]           | [W8](https://www.inflearn.com/course/%EB%94%B0%EB%9D%BC%ED%95%98%EB%A9%B0-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EB%8F%84%EC%BB%A4-ci) | X  |
+| 08 |  Lecture   |          따라하며 배우는 도커와 CI환경 [2023.11 업데이트]           | [W8](https://www.inflearn.com/course/%EB%94%B0%EB%9D%BC%ED%95%98%EB%A9%B0-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EB%8F%84%EC%BB%A4-ci) | O  |
 
 # 9. Spring Batch
 | 순서  |   유형    |                     이름                      |                                            URL                                            | 완료 |
