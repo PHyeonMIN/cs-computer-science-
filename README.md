@@ -47,8 +47,8 @@
 | 07 |  Lecture   |           실전! 스프링 데이터 JPA (김영한)            |                           [W7](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%EB%8D%B0%EC%9D%B4%ED%84%B0-JPA-%EC%8B%A4%EC%A0%84)                           | O  |
 | 08 |  Lecture   |             실전! QueryDSL (김영한)             |                           [W8](https://www.inflearn.com/course/querydsl-%EC%8B%A4%EC%A0%84)                           | O  |
 | 09 |  Lecture   |            호돌맨의 요절복통 개발쇼 (호돌맨)             |                           [W9](https://www.inflearn.com/courses?s=%ED%98%B8%EB%8F%8C%EB%A7%A8)                           | O  |
-| 10 |  Lecture   |          스프링 부트 - 핵심 원리와 활용 (김영한)          |                          [W10](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8-%ED%95%B5%EC%8B%AC%EC%9B%90%EB%A6%AC-%ED%99%9C%EC%9A%A9)                           | △  |
-| 11 |  Lecture   |          토비의 스프링 부트 - 이해와 원리 (토비)          |                          [W11](https://www.inflearn.com/course/%ED%86%A0%EB%B9%84-%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8-%EC%9D%B4%ED%95%B4%EC%99%80%EC%9B%90%EB%A6%AC)                           | △  |
+| 10 |  Lecture   |          스프링 부트 - 핵심 원리와 활용 (김영한)          |                          [W10](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8-%ED%95%B5%EC%8B%AC%EC%9B%90%EB%A6%AC-%ED%99%9C%EC%9A%A9)                           | O  |
+| 11 |  Lecture   |          토비의 스프링 부트 - 이해와 원리 (토비)          |                          [W11](https://www.inflearn.com/course/%ED%86%A0%EB%B9%84-%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8-%EC%9D%B4%ED%95%B4%EC%99%80%EC%9B%90%EB%A6%AC)                           | O  |
 
 # 6. Test
 | 순서  |   유형    |                              이름                              |                                            URL                                            | 완료 |
