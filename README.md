@@ -76,7 +76,7 @@
 | 05 |  Lecture   |           DevOps(데브옵스) : Kubernetes 완전 정복           |                [W5](https://www.udemy.com/course/best-devops/)                 | X  |
 | 06 |  Lecture   |         AWS(Amazon Web Service) 입문자를 위한 강의          |          [W6](https://www.inflearn.com/course/aws-%EC%9E%85%EB%AC%B8)          | O  |
 | 07 |  Lecture   |        AWS(Amazon Web Service) 중/상급자를 위한 강의         | [W7](https://www.inflearn.com/course/aws-%EC%A4%91%EC%83%81%EA%B8%89%EC%9E%90) | O  |
-| 08 |  Lecture   |          따라하며 배우는 도커와 CI환경 [2023.11 업데이트]           | [W8](https://www.inflearn.com/course/%EB%94%B0%EB%9D%BC%ED%95%98%EB%A9%B0-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EB%8F%84%EC%BB%A4-ci) | X  |
+| 08 |  Lecture   |          따라하며 배우는 도커와 CI환경 [2023.11 업데이트]           | [W8](https://www.inflearn.com/course/%EB%94%B0%EB%9D%BC%ED%95%98%EB%A9%B0-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EB%8F%84%EC%BB%A4-ci) | O  |
 
 # 9. Spring Batch
 | 순서  |   유형    |                     이름                      |                                            URL                                            | 완료 |
